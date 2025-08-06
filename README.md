@@ -18,7 +18,6 @@ Check out some of them:
 
 - [ToDoList](https://github.com/TiffanyEkesiani/ToDoList)
 - [Sistema-Inbox](https://github.com/TiffanyEkesiani/Sistema-Inbox)
-- [IntroducaoJavaSc](https://github.com/TiffanyEkesiani/IntroducaoJavaSc)
 
 ## ✨ Goals
 
