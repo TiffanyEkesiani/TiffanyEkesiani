@@ -28,7 +28,7 @@ Check out some of them:
 ## 📫 Let's connect
 
 Feel free to reach out!  
-[LinkedIn](https://www.linkedin.com/in/seu-usuario) • [GitHub](https://github.com/seu-usuario)
+[LinkedIn](https://www.linkedin.com/in/tiffanyekesiani) • [GitHub](https://github.com/TiffanyEkesiani)
 
 
 Thanks for stopping by 💜
