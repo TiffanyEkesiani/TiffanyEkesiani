@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi there! I'm Tiffany Ekesiani
 
-<!--
-**TiffanyEkesiani/TiffanyEkesiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm an aspiring **Front-End Developer** currently exploring the tech world with curiosity and excitement.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩🏽‍💻 About Me
+
+- 🎓 Graduated in **Analysis and Systems Development (ADS)**
+- ☕ Learning and coding in **Java** and **HTML/CSS**
+- 📊 Have experience with **data organization** and simple **automation scripts**
+- 🧑🏽‍🎨 Focused on improving my **Front-End** skills and learning more about **UI/UX design**
+- 📚 Always experimenting with small projects to grow my portfolio
+
+---
+
+## 🛠️ Skills So Far
+
+- HTML5 & CSS3
+- Java (beginner)
+- Git & GitHub
+- Logical thinking & task automation
+
+---
+
+## 💼 Projects
+
+> I'm still at the beginning of my journey, but proud of each step!
+
+- [📝 Task Management System (Java)](https://github.com/tiffanyekesiani/task-manager)  
+  Simple terminal-based app to create and track tasks (personal, study, work)
+
+- [🌐 Portfolio Page (HTML/CSS)](https://github.com/tiffanyekesiani/portfolio-page)  
+  A small responsive portfolio experiment (in progress)
+
+---
+
+## 🚀 Currently Learning
+
+- Responsive layouts with **Flexbox** and **Grid**
+- Improving JavaScript basics
+- Using **Figma** for UI ideas
+- GitHub project organization
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/tiffanyekesiani)
+- 📧 tiffanyekesiani@gmail.com
+
+Thanks for stopping by 💜
