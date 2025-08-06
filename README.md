@@ -16,9 +16,9 @@ Currently exploring the world of **front-end development** with a foundation in 
 I'm building small projects to improve my skills.  
 Check out some of them:
 
-- [ToDoList](https://github.com/seu-usuario/ToDoList)
-- [Sistema-Inbox](https://github.com/seu-usuario/Sistema-Inbox)
-- [IntroducaoJavaSc](https://github.com/seu-usuario/IntroducaoJavaSc)
+- [ToDoList](https://github.com/TiffanyEkesiani/ToDoList)
+- [Sistema-Inbox](https://github.com/TiffanyEkesiani/Sistema-Inbox)
+- [IntroducaoJavaSc](https://github.com/TiffanyEkesiani/IntroducaoJavaSc)
 
 ## ✨ Goals
 
