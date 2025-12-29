@@ -5,7 +5,7 @@ Currently exploring the world of **front-end development** with a foundation in 
 
 ## 🌱 What I'm learning
 
-- HTML & CSS 🎨  
+- HTML & CSS & JS🎨  
 - Java ☕  
 - Git & GitHub  
 - Front-end basics  
@@ -16,6 +16,7 @@ Currently exploring the world of **front-end development** with a foundation in 
 I'm building small projects to improve my skills.  
 Check out some of them:
 
+- [PetShop-Adocao](https://github.com/TiffanyEkesiani/petshop_e_adocao.git)
 - [ToDoList](https://github.com/TiffanyEkesiani/ToDoList)
 - [Sistema-Inbox](https://github.com/TiffanyEkesiani/Sistema-Inbox)
 - [Cadastro-Pet](https://github.com/TiffanyEkesiani/CadastroPet.git)
